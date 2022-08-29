@@ -4,7 +4,7 @@
 ![Alt Text](https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif)
 
 # Intro
-Do not worry if you have never programmed before! This class is an *introduction* to programming concepts. This course assumes no prior knowledge, so no question is too basic.
+Don't worry if you have never programmed before! This class is an *introduction* to programming concepts. This course assumes no prior knowledge, so no question is too basic.
 
 The goal of this course is to prepare you for future programming classes such as Data Strucures and Algorithms I, as well as most other CS courses at Cooper. This class is also required for the CS minor. By the end of the course you will be able to use software to solve computational problems in your respective majors. Problem solving, “algorithmic thinking” and proper methodologies for software development are emphasized throughout the course. 
 
