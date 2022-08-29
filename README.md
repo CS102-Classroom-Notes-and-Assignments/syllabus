@@ -13,10 +13,10 @@ Although the focus is on the C programming language, the course includes an intr
 
 # Class Topics
 1. Introduction to Cooper Union’s Linux based computer systems, including: 
-  * file structure
-  * command line
-  * text editors
-  * compiling and executing code (including source code written across multiple text files).
+   * file structure
+   * command line
+   * text editors
+   * compiling and executing code (including source code written across multiple text files).
 
 2. Thinking algorithmically. Relating source code to its execution, taking into account the memory and speed, debugging, verification, error checking. Proper techniques for programming.
 
