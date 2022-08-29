@@ -1,5 +1,5 @@
 # Welcome to CS102 Introduction to Computer Science!
-2 credits. 2 hrs/week. No prerequisites. Required for BSE, ChE,CE,ME majors.
+2 credits. 2 hrs/week. No prerequisites. Required for BSE, ChE, CE, ME majors.
 
 ![Alt Text](https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif)
 
