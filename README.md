@@ -31,7 +31,7 @@ Although the focus is on the C programming language, the course includes an intr
 4. Python programming:
    * Introduction to Python data types and expressions.
    * File I/O, formatted printing and plotting.
-   * Introduction to common libraries such as matplotlib and numpy.
+   * Introduction to common libraries such as matplotlib, numpy and pandas.
 
 
 # Classwork Breakdown
