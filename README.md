@@ -41,14 +41,13 @@ Textbook: The C Programming Language, 2nd Edition - Kerninghan & Ritchie
 We will be using Github Classroom for submitting all assignments. 
 
 *Grading Breakdown:*
-Programming assignments: 75% 
+Programming assignments: 80% 
    * The grading rubric substantially considers both correctness of the solution and style (e.g., efficiency, clarity, quality of comments and other documentation).
    * All assignments given at the end of class must be turned in *before* the start of the next class. Revisions can be made to submitted homework by the next class for half credit. If your program does not run, it will be a 0.
    * Your program will be graded for Correctness: 85% Style: 15%
 
-Quizzes and other forms of assessment: 25%
-   * There will be three short quizes 15%
-   * Final Project Presentation, 10%
+Quizzes: 20%
+   *  There will be 4 quizzes throughout the semester which will be announced beforehand.
 
 # 2022 Fall Class Schedule 
 1. August 30th - Class Introduction, Intro to Linx env, Github, Hello word
@@ -66,7 +65,7 @@ Quizzes and other forms of assessment: 25%
 14. November 22nd - (no class, Friday Schedule)
 15. November 29th -  More Python
 16. December 6th - TBD (likely an overview of HTML, CSS, JavaScript, SQL)
-17. December 13th - Final Project Presentations
+17. December 13th - TBD (likely an overview of HTML, CSS, JavaScript, SQL)
 
 
 # Academic Honesty
