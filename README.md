@@ -72,7 +72,7 @@ Quizzes: 20%
 Feel free to use online resources to learn code and look at code snippets, but blindly copying code from online or a peer is considered cheating and will result in a 0 for the assignment and an incident report. If you receive help from a classmate, please attribute the name of the classmate and show understanding of the code. 
 
 # Who am I?
-I graduated from Cooper Union as an Electrical/Computer Engineer, and now work at a startup doing Software Engineering. Feel free to contact me throughout the semester at my cooper email (subbaian@cooper.edu).
+I graduated from Cooper Union with a B.E and M.Eng in Electrical/Computer Engineering, and now work at a startup doing Software Engineering. Feel free to contact me throughout the semester at my cooper email (subbaian@cooper.edu).
 
 
 # ABET GOALS for the semester
