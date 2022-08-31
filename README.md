@@ -12,6 +12,9 @@ Although the focus is on the C programming language, the course includes an intr
 
 
 # Class Topics
+
+Textbook: The C Programming Language, 2nd Edition - Kerninghan & Ritchie 
+
 1. Introduction to Cooper Union’s Linux based computer systems, including: 
    * file structure
    * command line
