@@ -79,7 +79,7 @@ I graduated from Cooper Union as an Electrical/Computer Engineer, and now work a
 # ABET GOALS for the semester
 1) An ability to identify, formulate and solve complex engineering problems by applying principles of engineering, science and mathematics: Use of computing tools, principles of computer science.
 
-2) an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety as well as economic factors:
+2) An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety as well as economic factors:
 Writing a program that achieves a certain goal (as opposed to, e.g., simply describing what a given segment of code accomplishes). Considerations of the “quality” of the solution, e.g., memory, speed, programming style (as being integral to the design of the program).
 
 3) An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions:
