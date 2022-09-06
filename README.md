@@ -50,6 +50,7 @@ Quizzes: 20%
    *  There will be 4 quizzes throughout the semester which will be announced beforehand.
 
 # 2022 Fall Class Schedule 
+** Note that it is highly reccomended that you bring your laptop/device you can program with to class and follow along.
 1. August 30th - Class Introduction, Intro to Linx env, Github, Hello word
 3. September 6th - C - Variables, Types, Operators
 4. September 13th - C Operators, Precedence, Conditional Statements, Basic Input/Output Switch
