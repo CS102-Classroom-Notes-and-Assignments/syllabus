@@ -55,13 +55,13 @@ Quizzes: 20%
 3. September 6th - C - Variables, Types, Operators
 4. September 13th - C Operators, Precedence, Conditional Statements, Basic Input/Output Switch
 5. September 20th - C Loops, Basic Arrays, Basic Functions
-6. September 27th - C Basic arrays, Basic functions, Tic-Tac-Toe
+6. September 27th - Quiz #1 and C Basic arrays, Basic functions, Tic-Tac-Toe
 7. October 4th - continued
-8. October 11th - C Pointers and Arrays
+8. October 11th - Quiz #2 and C Pointers and Arrays
 9. October 18th - continued
-10. October 25th - C Command Line Arguments, intro to Structures
+10. October 25th - Quiz #3 and C Command Line Arguments, intro to Structures
 11. November 1st - C Structures, Github Forks
-12. November 8th - Intro to Python data types and expressions
+12. November 8th - Quiz #4 and Intro to Python data types and expressions
 13. November 15h - Python file I/O, formatted printing and plotting, matplotlib, numpy
 14. November 22nd - (no class, Friday Schedule)
 15. November 29th -  More Python
