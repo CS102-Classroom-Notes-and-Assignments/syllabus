@@ -49,6 +49,11 @@ Programming assignments: 80%
 Quizzes: 20%
    *  There will be 4 quizzes throughout the semester which will be announced beforehand.
 
+Grading:
+* For the first assignment, there will be no late credit points deducted. If you submit the assignment correctly at any point, you will receive full credit. 
+* For the second assignment, there will be no late credit points deducted. You can submit the HW for a second time with corrections to receive half of the lost points back.
+* For the third assignment onwards, there will be late points deducted at 10% per day. You can submit each HW for a second time with corrections to receive half of the lost points back.
+
 # 2022 Fall Class Schedule 
 ** Note that it is highly reccomended that you bring your laptop/device you can program with to class and follow along.
 1. August 30th - Class Introduction, Intro to Linx env, Github, Hello word
