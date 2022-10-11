@@ -61,7 +61,7 @@ Grading:
 4. September 13th - C Operators, Precedence, Conditional Statements, Basic Input/Output Switch
 5. September 20th - C Loops, Basic Arrays, Basic Functions
 6. September 27th - Quiz #1 and C Basic arrays, Basic functions, Tic-Tac-Toe
-7. October 4th - continued
+7. October 4th - continued (Virtual Class)
 8. October 11th - Quiz #2 and C Pointers and Arrays
 9. October 18th - continued
 10. October 25th - Quiz #3 and C Command Line Arguments, intro to Structures
