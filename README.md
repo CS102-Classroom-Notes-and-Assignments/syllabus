@@ -69,7 +69,7 @@ Grading:
 12. November 8th - Quiz #4 and Intro to Python data types and expressions
 13. November 15h - Python file I/O, formatted printing and plotting, matplotlib, numpy
 14. November 22nd - (no class, Friday Schedule)
-15. November 29th -  More Python, Final project assignment
+15. November 29th -  More Python (common libraries such as matplotlib, numpy and pandas), Final project assignment
 16. December 6th - Work on projects in class
 17. December 13th - Final Project Presentations
 
