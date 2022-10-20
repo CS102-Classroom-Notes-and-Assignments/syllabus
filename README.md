@@ -64,10 +64,10 @@ Grading:
 7. October 4th - continued (Virtual Class)
 8. October 11th - Quiz #2 and C Pointers and Arrays
 9. October 18th - continued
-10. October 25th - Quiz #3 and C Command Line Arguments, intro to Structures
-11. November 1st - C Structures, Github Forks
-12. November 8th - Quiz #4 and Intro to Python data types and expressions
-13. November 15h - Python file I/O, formatted printing and plotting, matplotlib, numpy
+10. October 25th - C Command Line Arguments, Intro to Structures
+11. November 1st - Quiz #3: Pointers and Arrays, Lesson: C Structures, Github Forks
+12. November 8th - Intro to Python data types and expressions
+13. November 15h - Quiz #4: Structures, C overall. Lesson: Python file I/O, formatted printing and plotting, matplotlib, numpy
 14. November 22nd - (no class, Friday Schedule)
 15. November 29th -  More Python (common libraries such as matplotlib, numpy and pandas), Final project assignment
 16. December 6th - Work on projects in class
