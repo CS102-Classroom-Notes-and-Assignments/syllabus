@@ -57,21 +57,21 @@ Grading:
 # 2022 Fall Class Schedule 
 ** Note that it is highly reccomended that you bring your laptop/device you can program with to class and follow along.
 1. August 30th - Class Introduction, Intro to Linx env, Github, Hello word
-3. September 6th - C - Variables, Types, Operators
-4. September 13th - C Operators, Precedence, Conditional Statements, Basic Input/Output Switch
-5. September 20th - C Loops, Basic Arrays, Basic Functions
-6. September 27th - Quiz #1 and C Basic arrays, Basic functions, Tic-Tac-Toe
-7. October 4th - continued (Virtual Class)
-8. October 11th - Quiz #2 and C Pointers and Arrays
-9. October 18th - continued
-10. October 25th - C Command Line Arguments, Intro to Structures
-11. November 1st - Quiz #3: Pointers and Arrays, Lesson: C Structures, Github Forks
-12. November 8th - Intro to Python data types and expressions
-13. November 15h - Quiz #4: Structures, C overall. Lesson: Python file I/O, formatted printing and plotting, matplotlib, numpy
-14. November 22nd - (no class, Friday Schedule)
-15. November 29th -  More Python (common libraries such as matplotlib, numpy and pandas), Final project assignment
-16. December 6th - Work on projects in class
-17. December 13th - Final Project Presentations
+2. September 6th - C - Variables, Types, Operators
+3. September 13th - C Operators, Precedence, Conditional Statements, Basic Input/Output Switch
+4. September 20th - C Loops, Basic Arrays, Basic Functions
+5. September 27th - ***Quiz #1:*** Class 1-3, ***Lesson:*** C Basic arrays, Basic functions, Tic-Tac-Toe
+6. October 4th - class 5 continued 
+7. October 11th - ***Quiz #2:*** Class 4-6, ***Lesson:*** C Pointers and Arrays
+8. October 18th - class 7 continued (Virtual Class)
+9. October 25th - C Command Line Arguments, Intro to Structures
+10. November 1st - ***Quiz #3:*** Pointers and Arrays, ***Lesson:*** C Structures, Github Forks
+11. November 8th - Intro to Python data types and expressions
+12. November 15h - Python file I/O, formatted printing and plotting, matplotlib, numpy
+13. November 22nd - (no class, Friday Schedule)
+14. November 29th -  More Python (common libraries such as matplotlib, numpy and pandas), Final project assignment
+15. December 6th - Work on projects in class
+16. December 13th - Final Project Presentations
 
 
 # Academic Honesty
