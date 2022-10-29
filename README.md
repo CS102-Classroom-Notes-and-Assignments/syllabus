@@ -58,7 +58,7 @@ Grading:
 ** Note that it is highly reccomended that you bring your laptop/device you can program with to class and follow along.
 1. August 30th -  ***Lesson 1:*** Class Introduction, Intro to Linx env, Github, Hello word
 2. September 6th -  ***Lesson 2:*** C - Variables, Types, Operators
-3. September 13th - ***Lesson 3:***C Operators, Precedence, Conditional Statements, Basic Input/Output Switch
+3. September 13th - ***Lesson 3:*** C Operators, Precedence, Conditional Statements, Basic Input/Output Switch
 4. September 20th -  ***Lesson 4:*** C Loops, Basic Arrays, Basic Functions
 5. September 27th - ***Quiz #1:*** lessons 1-3, ***Lesson 5:*** C Basic arrays, Basic functions, Tic-Tac-Toe
 6. October 4th -  ***Lesson 6 :*** lesson 5 continued 
