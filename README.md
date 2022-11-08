@@ -67,10 +67,10 @@ Grading:
 9. October 25th -  ***Lesson 9:*** C Command Line Arguments, Intro to Structures
 10. November 1st - ***Quiz #3:*** Pointers and Arrays, ***Lesson 10:*** C Structures, Github Forks
 11. November 8th -  ***Lesson 11:*** Intro to Python data types and expressions
-12. November 15h -  ***Lesson 12:*** Python file I/O, formatted printing and plotting, matplotlib, numpy
+12. November 15h -  ***Lesson 12:*** Python: Functions, classes, simple program
 13. November 22nd - (no class, Friday Schedule)
-14. November 29th -   ***Lesson 13:*** More Python (common libraries such as matplotlib, numpy and pandas), Final project assignment
-15. December 6th -  ***Lesson 14:*** Work on projects in class (receive feedback on work)
+14. November 29th -   ***Lesson 13:*** Python: File I/O, formatted printing and plotting, Matplotlib, numpy and pandas, Final project assignment
+15. December 6th -  ***Lesson 14:*** Work on projects in class (meet checkpoint and receive feedback on work)
 16. December 13th -  ***Lesson 15:*** Final Project Presentations
 
 
